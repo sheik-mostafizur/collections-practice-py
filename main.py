@@ -6,7 +6,7 @@ from change_item import change_item
 
 # user_value = input("Give me list items: ")
 # list = user_value.split(" ")
-list = ['Lorem', 'Ipsum', 'simply', 'dummy', 'text', 'printing', 'typesetting', 'industry.', 'Lorem', 'Ipsum', 'been', "industry's", 'standard', 'dummy', 'text', 'ever', 'since', '1500s,', 'when', 'unknown', 'printer', 'took', 'galley', 'type', 'scrambled', 'make', 'type', 'specimen', 'book.', 'survived', 'only', 'five', 'centuries,', 'also', 'leap', 'into', 'electronic', 'typesetting,', 'remaining', 'essentially', 'unchanged.', 'popularised', '1960s', 'with', 'release', 'Letraset', 'sheets', 'containing', 'Lorem', 'Ipsum', 'passages,', 'more', 'recently', 'with', 'desktop', 'publishing', 'software', 'like', 'Aldus', 'PageMaker', 'including', 'versions', 'Lorem', 'Ipsum.']
+list = ['Lorem', 'Ipsum', 'simply', 'dummy', 'text', 'printing', 'typesetting', 'industry']
 
 
 print("""What do you want?
